@@ -1,5 +1,5 @@
 
-tgcrypto
+
 
 
 aiohttp
@@ -7,7 +7,7 @@ aiohttp
 beautifulsoup4
 emoji
 
-gitpython
+
 heroku3
 
 hachoir
@@ -28,7 +28,7 @@ oauth2client
 
 git+https://github.com/pyrogram/pyrogram.git@asyncio-dev
 aiofiles
-aiohttp
+
 bs4
 cowpy
 dnspython
@@ -36,7 +36,7 @@ emoji
 gitpython
 
 googletrans
-hachoir==3.1.1
+
 heroku3
 motor
 nest_asyncio
