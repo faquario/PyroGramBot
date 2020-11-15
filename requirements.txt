@@ -35,3 +35,10 @@ urbandict==0.5
 wget
 wikipedia
 youtube_dl
+# scrapping tools [not used anywhere]
+beautifulsoup4
+psycopg2-binary
+sqlalchemy
+# download remote files
+pySmartDL
+oauth2client
